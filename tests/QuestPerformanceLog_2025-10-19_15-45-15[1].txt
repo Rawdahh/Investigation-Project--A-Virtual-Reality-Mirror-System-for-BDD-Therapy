@@ -1,0 +1,33 @@
+--- Meta Quest Performance Log ---
+
+Session Start Time: 2025-10-19 15:45:15
+Device Model: Oculus Quest
+Operating System: Android OS 14 / API-34 (UP1A.231005.007.A1/51716910141200150)
+Graphics API: Vulkan
+GPU: Adreno (TM) 650
+Display Refresh Rate: 71.97887 Hz
+Processor: ARM64 FP ASIMD AES (3 cores @ 1804MHz)
+System Memory: 5832 MB
+
+
+--- Real-time Metrics Log ---
+--- Meta Quest Performance Log ---
+
+Session Start Time: 2025-10-19 15:45:15
+Device Model: Oculus Quest
+Operating System: Android OS 14 / API-34 (UP1A.231005.007.A1/51716910141200150)
+Graphics API: Vulkan
+GPU: Adreno (TM) 650
+Display Refresh Rate: 71.97887 Hz
+Processor: ARM64 FP ASIMD AES (3 cores @ 1804MHz)
+System Memory: 5832 MB
+
+
+--- Real-time Metrics Log ---
+Time: 15:45:20, Battery: 82%, Temp: 36.0°C, CPU: 2, GPU: 2, MemAlloc: 310MB, MemReserved: 441MB, Scene: FinalTesting3, FPS: 24.0, FrameSpikes: 7
+Time: 15:45:25, Battery: 82%, Temp: 36.0°C, CPU: 2, GPU: 2, MemAlloc: 309MB, MemReserved: 441MB, Scene: FinalTesting3, FPS: 24.0, FrameSpikes: 5
+Time: 15:45:31, Battery: 82%, Temp: 36.0°C, CPU: 2, GPU: 2, MemAlloc: 309MB, MemReserved: 441MB, Scene: FinalTesting3, FPS: 23.9, FrameSpikes: 4
+Time: 15:45:36, Battery: 82%, Temp: 36.0°C, CPU: 2, GPU: 2, MemAlloc: 309MB, MemReserved: 441MB, Scene: FinalTesting3, FPS: 24.2, FrameSpikes: 2
+Time: 15:45:41, Battery: 82%, Temp: 36.0°C, CPU: 2, GPU: 2, MemAlloc: 309MB, MemReserved: 441MB, Scene: FinalTesting3, FPS: 14.8, FrameSpikes: 12
+Time: 15:45:46, Battery: 82%, Temp: 36.2°C, CPU: 2, GPU: 2, MemAlloc: 309MB, MemReserved: 441MB, Scene: FinalTesting3, FPS: 23.5, FrameSpikes: 19
+--- Session Ended: 2025-10-19 15:45:51 ---

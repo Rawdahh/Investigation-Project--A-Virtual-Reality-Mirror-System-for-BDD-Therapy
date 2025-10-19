@@ -1,0 +1,62 @@
+
+╔═══════════════════════════════════════════════════════════════╗
+║          META QUEST PERFORMANCE ANALYSIS REPORT               ║
+╚═══════════════════════════════════════════════════════════════╝
+
+SESSION INFORMATION:
+────────────────────────────────────────────────────────────
+Device: Oculus Quest
+OS: Android OS 14 / API-34 (UP1A.231005.007.A1/51716910141200150)
+GPU: Adreno (TM) 650
+Display Refresh Rate: 71.97887 Hz
+
+Session Duration: 26 seconds (0.4 minutes)
+Total Samples: 6
+
+FPS PERFORMANCE:
+────────────────────────────────────────────────────────────
+Average FPS: 22.40
+Minimum FPS: 14.80
+Maximum FPS: 24.20
+Standard Deviation: 3.73
+FPS Stability (CV): 16.65% (lower is better)
+Samples below 71.97887 FPS: 6/6 (100.0%)
+
+FRAME SPIKE ANALYSIS:
+────────────────────────────────────────────────────────────
+Total Frame Spikes: 49
+Average Spikes per Sample: 8.17
+Maximum Spikes in Sample: 19
+High Spike Samples (>10): 2/6 (33.3%)
+
+THERMAL PERFORMANCE:
+────────────────────────────────────────────────────────────
+Average Temperature: 36.03°C
+Peak Temperature: 36.20°C
+Temperature Range: 0.20°C
+⚠️  CAUTION: Temperature reached concerning levels (>35°C).
+
+BATTERY PERFORMANCE:
+────────────────────────────────────────────────────────────
+Starting Battery: 82%
+Ending Battery: 82%
+Total Drain: 0%
+Drain Rate: 0.00% per minute
+
+MEMORY USAGE:
+────────────────────────────────────────────────────────────
+Average Allocated: 309 MB
+Average Reserved: 441 MB
+Memory Efficiency: 70.1%
+
+CPU/GPU PERFORMANCE LEVELS:
+────────────────────────────────────────────────────────────
+Average CPU Level: 2.00
+Average GPU Level: 2.00
+
+RECOMMENDATIONS:
+────────────────────────────────────────────────────────────
+• FPS is significantly below the 71.97887Hz target. Consider optimizing graphics settings.
+• High average frame spike count detected. Investigate CPU/GPU bottlenecks or GC stalls.
+
+════════════════════════════════════════════════════════════
