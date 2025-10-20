@@ -1,7 +1,0 @@
-Time,Battery,Temperature,CPU_Level,GPU_Level,Memory_Allocated,Memory_Reserved,Scene,FPS,Frame_Spikes,Seconds
-15:45:20,82,36.0,2,2,310,441,FinalTesting3,24.0,7,0.0
-15:45:25,82,36.0,2,2,309,441,FinalTesting3,24.0,5,5.0
-15:45:31,82,36.0,2,2,309,441,FinalTesting3,23.9,4,11.0
-15:45:36,82,36.0,2,2,309,441,FinalTesting3,24.2,2,16.0
-15:45:41,82,36.0,2,2,309,441,FinalTesting3,14.8,12,21.0
-15:45:46,82,36.2,2,2,309,441,FinalTesting3,23.5,19,26.0

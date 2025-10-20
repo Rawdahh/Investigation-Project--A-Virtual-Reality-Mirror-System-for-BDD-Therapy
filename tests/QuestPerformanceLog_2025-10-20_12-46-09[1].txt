@@ -1,0 +1,135 @@
+--- Meta Quest Performance Log ---
+
+Session Start Time: 2025-10-20 12:46:09
+Device Model: Oculus Quest
+Operating System: Android OS 14 / API-34 (UP1A.231005.007.A1/51716910141200150)
+Graphics API: Vulkan
+GPU: Adreno (TM) 650
+Display Refresh Rate: 71.97844 Hz
+Processor: ARM64 FP ASIMD AES (3 cores @ 1804MHz)
+System Memory: 5832 MB
+
+
+--- Real-time Metrics Log ---
+--- Meta Quest Performance Log ---
+
+Session Start Time: 2025-10-20 12:46:09
+Device Model: Oculus Quest
+Operating System: Android OS 14 / API-34 (UP1A.231005.007.A1/51716910141200150)
+Graphics API: Vulkan
+GPU: Adreno (TM) 650
+Display Refresh Rate: 71.97844 Hz
+Processor: ARM64 FP ASIMD AES (3 cores @ 1804MHz)
+System Memory: 5832 MB
+
+
+--- Real-time Metrics Log ---
+Time: 12:46:15, Battery: 53%, Temp: 38.7°C, CPU: 2, GPU: 2, MemAlloc: 310MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.0, FrameSpikes: 5
+Time: 12:46:21, Battery: 53%, Temp: 38.7°C, CPU: 2, GPU: 2, MemAlloc: 310MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.8, FrameSpikes: 6
+Time: 12:46:26, Battery: 53%, Temp: 39.0°C, CPU: 2, GPU: 2, MemAlloc: 310MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.8, FrameSpikes: 1
+Time: 12:46:31, Battery: 53%, Temp: 39.0°C, CPU: 2, GPU: 2, MemAlloc: 310MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.4, FrameSpikes: 0
+Time: 12:46:36, Battery: 53%, Temp: 39.0°C, CPU: 2, GPU: 2, MemAlloc: 310MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.6, FrameSpikes: 0
+Time: 12:46:41, Battery: 53%, Temp: 39.0°C, CPU: 2, GPU: 2, MemAlloc: 310MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.8, FrameSpikes: 2
+Time: 12:46:46, Battery: 53%, Temp: 39.0°C, CPU: 2, GPU: 2, MemAlloc: 310MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 25.1, FrameSpikes: 2
+Time: 12:46:51, Battery: 53%, Temp: 39.2°C, CPU: 2, GPU: 2, MemAlloc: 310MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.2, FrameSpikes: 2
+Time: 12:46:56, Battery: 53%, Temp: 39.0°C, CPU: 2, GPU: 2, MemAlloc: 310MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.8, FrameSpikes: 0
+Time: 12:47:01, Battery: 53%, Temp: 39.0°C, CPU: 2, GPU: 2, MemAlloc: 310MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.6, FrameSpikes: 2
+Time: 12:47:06, Battery: 53%, Temp: 39.2°C, CPU: 2, GPU: 2, MemAlloc: 310MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.6, FrameSpikes: 0
+Time: 12:47:11, Battery: 53%, Temp: 39.2°C, CPU: 2, GPU: 2, MemAlloc: 310MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.5, FrameSpikes: 3
+Time: 12:47:16, Battery: 53%, Temp: 39.2°C, CPU: 2, GPU: 2, MemAlloc: 310MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.8, FrameSpikes: 3
+Time: 12:47:21, Battery: 53%, Temp: 39.2°C, CPU: 2, GPU: 2, MemAlloc: 310MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.6, FrameSpikes: 0
+Time: 12:47:26, Battery: 53%, Temp: 39.2°C, CPU: 2, GPU: 2, MemAlloc: 310MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.7, FrameSpikes: 0
+Time: 12:47:31, Battery: 53%, Temp: 39.2°C, CPU: 2, GPU: 2, MemAlloc: 310MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.5, FrameSpikes: 1
+Time: 12:47:36, Battery: 52%, Temp: 39.2°C, CPU: 2, GPU: 2, MemAlloc: 310MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.7, FrameSpikes: 1
+Time: 12:47:41, Battery: 52%, Temp: 39.2°C, CPU: 2, GPU: 2, MemAlloc: 310MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.4, FrameSpikes: 0
+Time: 12:47:46, Battery: 52%, Temp: 39.2°C, CPU: 2, GPU: 2, MemAlloc: 310MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.7, FrameSpikes: 4
+Time: 12:47:51, Battery: 52%, Temp: 39.5°C, CPU: 2, GPU: 2, MemAlloc: 310MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.0, FrameSpikes: 1
+Time: 12:47:56, Battery: 52%, Temp: 39.5°C, CPU: 2, GPU: 2, MemAlloc: 310MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.3, FrameSpikes: 1
+Time: 12:48:01, Battery: 52%, Temp: 39.2°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 22.7, FrameSpikes: 18
+Time: 12:48:06, Battery: 52%, Temp: 39.2°C, CPU: 2, GPU: 2, MemAlloc: 310MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.0, FrameSpikes: 9
+Time: 12:48:11, Battery: 52%, Temp: 39.5°C, CPU: 2, GPU: 2, MemAlloc: 310MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.9, FrameSpikes: 4
+Time: 12:48:16, Battery: 52%, Temp: 39.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.2, FrameSpikes: 7
+Time: 12:48:21, Battery: 52%, Temp: 39.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 34.8, FrameSpikes: 38
+Time: 12:48:26, Battery: 52%, Temp: 39.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.7, FrameSpikes: 32
+Time: 12:48:31, Battery: 52%, Temp: 39.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.1, FrameSpikes: 0
+Time: 12:48:36, Battery: 52%, Temp: 39.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 35.4, FrameSpikes: 9
+Time: 12:48:41, Battery: 52%, Temp: 39.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.9, FrameSpikes: 9
+Time: 12:48:46, Battery: 52%, Temp: 39.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.0, FrameSpikes: 1
+Time: 12:48:51, Battery: 52%, Temp: 39.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.9, FrameSpikes: 0
+Time: 12:48:56, Battery: 51%, Temp: 39.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.0, FrameSpikes: 0
+Time: 12:49:01, Battery: 51%, Temp: 39.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.9, FrameSpikes: 0
+Time: 12:49:06, Battery: 51%, Temp: 39.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.3, FrameSpikes: 8
+Time: 12:49:11, Battery: 51%, Temp: 39.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.6, FrameSpikes: 0
+Time: 12:49:16, Battery: 51%, Temp: 39.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.2, FrameSpikes: 0
+Time: 12:49:21, Battery: 51%, Temp: 39.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.8, FrameSpikes: 0
+Time: 12:49:26, Battery: 51%, Temp: 39.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.9, FrameSpikes: 0
+Time: 12:49:31, Battery: 51%, Temp: 39.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.4, FrameSpikes: 0
+Time: 12:49:36, Battery: 51%, Temp: 39.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.6, FrameSpikes: 0
+Time: 12:49:41, Battery: 51%, Temp: 39.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.6, FrameSpikes: 0
+Time: 12:49:46, Battery: 51%, Temp: 39.7°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 25.1, FrameSpikes: 0
+Time: 12:49:51, Battery: 51%, Temp: 39.7°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.6, FrameSpikes: 0
+Time: 12:49:56, Battery: 51%, Temp: 39.7°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.2, FrameSpikes: 0
+Time: 12:50:01, Battery: 51%, Temp: 39.7°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.4, FrameSpikes: 0
+Time: 12:50:06, Battery: 51%, Temp: 39.7°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.0, FrameSpikes: 4
+Time: 12:50:11, Battery: 51%, Temp: 39.7°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.8, FrameSpikes: 1
+Time: 12:50:16, Battery: 51%, Temp: 39.7°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.7, FrameSpikes: 0
+Time: 12:50:21, Battery: 51%, Temp: 39.7°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.5, FrameSpikes: 0
+Time: 12:50:26, Battery: 51%, Temp: 39.7°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.7, FrameSpikes: 0
+Time: 12:50:31, Battery: 51%, Temp: 39.7°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.5, FrameSpikes: 0
+Time: 12:50:36, Battery: 51%, Temp: 39.7°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.9, FrameSpikes: 0
+Time: 12:50:41, Battery: 51%, Temp: 39.7°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.7, FrameSpikes: 0
+Time: 12:50:46, Battery: 51%, Temp: 39.7°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.8, FrameSpikes: 0
+Time: 12:50:51, Battery: 51%, Temp: 40.0°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.5, FrameSpikes: 0
+Time: 12:50:56, Battery: 51%, Temp: 39.7°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.5, FrameSpikes: 0
+Time: 12:51:02, Battery: 51%, Temp: 39.7°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.5, FrameSpikes: 0
+Time: 12:51:07, Battery: 50%, Temp: 40.0°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.7, FrameSpikes: 0
+Time: 12:51:12, Battery: 50%, Temp: 40.0°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.7, FrameSpikes: 0
+Time: 12:51:17, Battery: 50%, Temp: 40.0°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.2, FrameSpikes: 0
+Time: 12:51:22, Battery: 50%, Temp: 40.0°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.7, FrameSpikes: 0
+Time: 12:51:27, Battery: 50%, Temp: 40.0°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.9, FrameSpikes: 0
+Time: 12:51:32, Battery: 50%, Temp: 40.0°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.7, FrameSpikes: 3
+Time: 12:51:37, Battery: 50%, Temp: 40.0°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.0, FrameSpikes: 0
+Time: 12:51:42, Battery: 50%, Temp: 40.0°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.8, FrameSpikes: 0
+Time: 12:51:47, Battery: 50%, Temp: 40.0°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.1, FrameSpikes: 0
+Time: 12:51:52, Battery: 50%, Temp: 40.0°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.8, FrameSpikes: 0
+Time: 12:51:57, Battery: 50%, Temp: 40.0°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.8, FrameSpikes: 0
+Time: 12:52:02, Battery: 50%, Temp: 40.0°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.6, FrameSpikes: 0
+Time: 12:52:07, Battery: 50%, Temp: 40.0°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.1, FrameSpikes: 0
+Time: 12:52:12, Battery: 50%, Temp: 40.2°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.9, FrameSpikes: 0
+Time: 12:52:17, Battery: 50%, Temp: 40.0°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.1, FrameSpikes: 0
+Time: 12:52:22, Battery: 50%, Temp: 40.0°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.2, FrameSpikes: 0
+Time: 12:52:27, Battery: 49%, Temp: 40.2°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.7, FrameSpikes: 0
+Time: 12:52:32, Battery: 49%, Temp: 40.2°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.9, FrameSpikes: 0
+Time: 12:52:37, Battery: 49%, Temp: 40.2°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.0, FrameSpikes: 0
+Time: 12:52:42, Battery: 49%, Temp: 40.2°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.0, FrameSpikes: 0
+Time: 12:52:47, Battery: 49%, Temp: 40.2°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.1, FrameSpikes: 0
+Time: 12:52:52, Battery: 49%, Temp: 40.2°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.9, FrameSpikes: 0
+Time: 12:52:57, Battery: 49%, Temp: 40.2°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.0, FrameSpikes: 0
+Time: 12:53:02, Battery: 49%, Temp: 40.2°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.5, FrameSpikes: 0
+Time: 12:53:07, Battery: 49%, Temp: 40.2°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.8, FrameSpikes: 0
+Time: 12:53:12, Battery: 49%, Temp: 40.2°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.6, FrameSpikes: 0
+Time: 12:53:17, Battery: 49%, Temp: 40.2°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.7, FrameSpikes: 0
+Time: 12:53:22, Battery: 49%, Temp: 40.2°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.2, FrameSpikes: 0
+Time: 12:53:27, Battery: 49%, Temp: 40.2°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.9, FrameSpikes: 0
+Time: 12:53:32, Battery: 49%, Temp: 40.2°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.9, FrameSpikes: 0
+Time: 12:53:37, Battery: 49%, Temp: 40.2°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.1, FrameSpikes: 0
+Time: 12:53:42, Battery: 49%, Temp: 40.2°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.5, FrameSpikes: 0
+Time: 12:53:47, Battery: 49%, Temp: 40.2°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 25.0, FrameSpikes: 0
+Time: 12:53:52, Battery: 49%, Temp: 40.2°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.6, FrameSpikes: 0
+Time: 12:53:57, Battery: 49%, Temp: 40.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.9, FrameSpikes: 0
+Time: 12:54:02, Battery: 49%, Temp: 40.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.4, FrameSpikes: 0
+Time: 12:54:07, Battery: 49%, Temp: 40.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.9, FrameSpikes: 0
+Time: 12:54:12, Battery: 49%, Temp: 40.2°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.1, FrameSpikes: 0
+Time: 12:54:17, Battery: 49%, Temp: 40.2°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.2, FrameSpikes: 0
+Time: 12:54:22, Battery: 49%, Temp: 40.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.3, FrameSpikes: 0
+Time: 12:54:27, Battery: 49%, Temp: 40.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.0, FrameSpikes: 0
+Time: 12:54:32, Battery: 48%, Temp: 40.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.7, FrameSpikes: 0
+Time: 12:54:37, Battery: 48%, Temp: 40.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.7, FrameSpikes: 0
+Time: 12:54:42, Battery: 48%, Temp: 40.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.3, FrameSpikes: 0
+Time: 12:54:47, Battery: 48%, Temp: 40.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.6, FrameSpikes: 0
+Time: 12:54:52, Battery: 48%, Temp: 40.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.7, FrameSpikes: 0
+Time: 12:54:57, Battery: 48%, Temp: 40.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.8, FrameSpikes: 0
+Time: 12:55:02, Battery: 48%, Temp: 40.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 24.1, FrameSpikes: 0
+Time: 12:55:07, Battery: 48%, Temp: 40.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 23.9, FrameSpikes: 2
+Time: 12:55:12, Battery: 48%, Temp: 40.5°C, CPU: 2, GPU: 2, MemAlloc: 311MB, MemReserved: 443MB, Scene: FinalTesting3, FPS: 17.4, FrameSpikes: 8
+--- Session Ended: 2025-10-20 12:55:14 ---

@@ -1,4 +1,4 @@
-#  log_file_path = ".\QuestPerformanceLog_2025-10-19_15-45-15[1].txt"
+# log_file_path = ".\QuestPerformanceLog_2025-10-19_15-45-15[1].txt"
 
 import re
 import matplotlib.pyplot as plt
@@ -265,14 +265,11 @@ def create_thermal_battery_analysis(df, output_path='figure4_thermal_battery_ana
 def create_statistics_summary(df, output_path='figure5_statistics_summary.png'):
     """Figure 5: A dedicated figure for the performance statistics summary."""
     
-    # Create a figure specifically for the text
     fig, ax = plt.subplots(figsize=(8, 7))
     fig.suptitle('Figure 5: Performance Statistics Summary', fontsize=16, fontweight='bold')
     
-    # Turn off the axis lines, ticks, and labels
     ax.axis('off')
     
-    # Since we have more space, let's create a more comprehensive summary
     stats_text = f"""
     FPS PERFORMANCE
     ───────────────────────────
@@ -299,16 +296,59 @@ def create_statistics_summary(df, output_path='figure5_statistics_summary.png'):
     • Avg Reserved:  {df['Memory_Reserved'].mean():.0f} MB
     """
     
-    # Add the text to the figure
     ax.text(0.5, 0.5, stats_text, 
             ha='center', va='center', fontsize=12,
-            fontfamily='monospace',
+            fontfamily='monospace', fontweight='bold',
             bbox=dict(boxstyle='round', facecolor='lightblue', alpha=0.4))
             
     plt.tight_layout(rect=[0, 0, 1, 0.95])
     plt.savefig(output_path, dpi=300, bbox_inches='tight')
     print(f"Figure 5 saved to: {output_path}")
     plt.close()
+
+def create_combined_performance_plot(df, output_path='figure6_combined_performance.png'):
+    """Figure 6: Combined timeline of FPS, Temperature, and Battery."""
+    
+    fig, ax1 = plt.subplots(figsize=(12, 7))
+    
+    fig.suptitle('Performance Metrics for Perceptual Pathways on Meta Quest: \nFramerate (FPS), Device Temperature, and Battery Consumption', fontsize=20, fontweight='bold')
+    
+    x = df['Seconds'].values
+    
+    ax2 = ax1.twinx()
+    
+    p1, = ax1.plot(x, df['FPS'], color="#96d8f1", label='FPS', linewidth=3.5)
+    ax1.set_xlabel('Time (seconds)', fontsize=20,  fontweight='bold')
+    ax1.set_ylabel('FPS / Battery (%)', fontsize=20, color='black', fontweight='bold')
+    ax1.set_ylim(0, 100)
+    
+    p2, = ax1.plot(x, df['Battery'], color='#9b59b6', label='Battery', linewidth=3.5, linestyle='--')
+    
+    p3, = ax2.plot(x, df['Temperature'], color="#e6abdb", label='Temperature', linewidth=3.5)
+    ax2.set_ylabel('Temperature (°C)', fontsize=17, color='black', fontweight='bold')
+
+    # --- MODIFIED SECTION: Adjusting tick label properties ---
+    for label in ax1.get_xticklabels() + ax1.get_yticklabels():
+        label.set_fontsize(17)
+        label.set_fontweight('bold')
+
+    for label in ax2.get_yticklabels():
+        label.set_fontsize(17)
+        label.set_fontweight('bold')
+    # --- END OF MODIFIED SECTION ---
+
+    lines = [p1, p2, p3]
+    ax1.legend(lines, [l.get_label() for l in lines], loc='upper center', 
+               bbox_to_anchor=(0.5, -0.15), fancybox=True, shadow=True, ncol=3, 
+               prop={'size': 20, 'weight': 'bold'})
+
+    ax1.grid(True, alpha=0.3)
+    fig.tight_layout(rect=[0, 0.03, 1, 0.95])
+    
+    plt.savefig(output_path, dpi=300, bbox_inches='tight')
+    print(f"Figure 6 saved to: {output_path}")
+    plt.close()
+
 
 def generate_report(df, session_info):
     """Generate a text report with analysis."""
@@ -432,7 +472,7 @@ def generate_report(df, session_info):
 # Main execution
 if __name__ == "__main__":
     # Change this to your log file path
-    log_file_path = "QuestPerformanceLog_2025-10-19_15-45-15[1].txt"
+    log_file_path = "QuestPerformanceLog_2025-10-20_12-46-09[1].txt"
     
     print("Parsing Quest performance log...")
     df, session_info = parse_quest_log(log_file_path)
@@ -455,6 +495,9 @@ if __name__ == "__main__":
         
         print("Creating Figure 5: Statistics Summary...")
         create_statistics_summary(df)
+
+        print("Creating Figure 6: Combined Performance Timeline...")
+        create_combined_performance_plot(df)
         
         # Generate text report
         print("\nGenerating analysis report...")
@@ -478,5 +521,6 @@ if __name__ == "__main__":
         print("  - figure3_memory_analysis.png")
         print("  - figure4_thermal_battery_analysis.png")
         print("  - figure5_statistics_summary.png")
+        print("  - figure6_combined_performance.png")
     else:
         print("\nProcessing stopped due to parsing errors.")

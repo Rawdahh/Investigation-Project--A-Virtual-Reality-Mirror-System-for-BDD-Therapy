@@ -8,46 +8,47 @@ SESSION INFORMATION:
 Device: Oculus Quest
 OS: Android OS 14 / API-34 (UP1A.231005.007.A1/51716910141200150)
 GPU: Adreno (TM) 650
-Display Refresh Rate: 71.97887 Hz
+Display Refresh Rate: 71.97844 Hz
 
-Session Duration: 26 seconds (0.4 minutes)
-Total Samples: 6
+Session Duration: 537 seconds (8.9 minutes)
+Total Samples: 108
 
 FPS PERFORMANCE:
 ────────────────────────────────────────────────────────────
-Average FPS: 22.40
-Minimum FPS: 14.80
-Maximum FPS: 24.20
-Standard Deviation: 3.73
-FPS Stability (CV): 16.65% (lower is better)
-Samples below 71.97887 FPS: 6/6 (100.0%)
+Average FPS: 24.09
+Minimum FPS: 17.40
+Maximum FPS: 35.40
+Standard Deviation: 1.68
+FPS Stability (CV): 6.99% (lower is better)
+Samples below 71.97844 FPS: 108/108 (100.0%)
 
 FRAME SPIKE ANALYSIS:
 ────────────────────────────────────────────────────────────
-Total Frame Spikes: 49
-Average Spikes per Sample: 8.17
-Maximum Spikes in Sample: 19
-High Spike Samples (>10): 2/6 (33.3%)
+Total Frame Spikes: 187
+Average Spikes per Sample: 1.73
+Maximum Spikes in Sample: 38
+High Spike Samples (>10): 3/108 (2.8%)
 
 THERMAL PERFORMANCE:
 ────────────────────────────────────────────────────────────
-Average Temperature: 36.03°C
-Peak Temperature: 36.20°C
-Temperature Range: 0.20°C
-⚠️  CAUTION: Temperature reached concerning levels (>35°C).
+Average Temperature: 39.79°C
+Peak Temperature: 40.50°C
+Temperature Range: 1.80°C
+⚠️  WARNING: Peak temperature exceeded 40°C, may lead to throttling.
 
 BATTERY PERFORMANCE:
 ────────────────────────────────────────────────────────────
-Starting Battery: 82%
-Ending Battery: 82%
-Total Drain: 0%
-Drain Rate: 0.00% per minute
+Starting Battery: 53%
+Ending Battery: 48%
+Total Drain: 5%
+Drain Rate: 0.56% per minute
+Estimated Time Remaining: 86 minutes
 
 MEMORY USAGE:
 ────────────────────────────────────────────────────────────
-Average Allocated: 309 MB
-Average Reserved: 441 MB
-Memory Efficiency: 70.1%
+Average Allocated: 311 MB
+Average Reserved: 443 MB
+Memory Efficiency: 70.2%
 
 CPU/GPU PERFORMANCE LEVELS:
 ────────────────────────────────────────────────────────────
@@ -56,7 +57,7 @@ Average GPU Level: 2.00
 
 RECOMMENDATIONS:
 ────────────────────────────────────────────────────────────
-• FPS is significantly below the 71.97887Hz target. Consider optimizing graphics settings.
-• High average frame spike count detected. Investigate CPU/GPU bottlenecks or GC stalls.
+• FPS is significantly below the 71.97844Hz target. Consider optimizing graphics settings.
+• Device is running hot. Ensure proper ventilation and check for performance throttling.
 
 ════════════════════════════════════════════════════════════
