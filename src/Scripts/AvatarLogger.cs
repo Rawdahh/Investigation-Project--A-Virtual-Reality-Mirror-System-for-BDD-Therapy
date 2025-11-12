@@ -31,7 +31,6 @@ public class AvatarLogger : MonoBehaviour
             FileLogger.Instance.Log("WARNING: UMASkinColorSlider was not found in the scene.");
         }
 
-        // --- THIS IS THE NEW SECTION TO ADD ---
         // 4. Find and log the final wardrobe choice.
         UMA_WardrobeSelector wardrobeSelector = FindObjectOfType<UMA_WardrobeSelector>();
         if (wardrobeSelector != null)
@@ -51,11 +50,9 @@ public class AvatarLogger : MonoBehaviour
         {
             FileLogger.Instance.Log("WARNING: UMA_WardrobeSelector was not found in the scene.");
         }
-        // ------------------------------------
 
         // 5. Log a footer to neatly close the data block.
         FileLogger.Instance.Log("--- End of Avatar Values ---");
 
-        // IMPORTANT: After logging, you would then load the next scene here.
     }
 }
